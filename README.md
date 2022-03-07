@@ -1,5 +1,5 @@
 # Dik Üçgende Hipotenüs Bulan Program
-Patika.dev > Java101 > Pratik3 - Dik Üçgende Hipotenüs Bulan Program
+Patika.dev > Java101 > Temel Kavramlar ve Değişkenler > Pratik3 - Dik Üçgende Hipotenüs Bulan Program
 
 ## Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.
 ### Formül
